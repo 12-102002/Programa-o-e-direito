@@ -6,7 +6,8 @@ escolhidos com referências;
 explicados no presente trabalho são os seguintes: algoritmo; inteligência artificial;
 informação; banco de dados; e jurimetria.
 
-4 - Neste Contexto, segue um breve explicação a respeito dos conceitos selecionados:
+4 - Neste Contexto, segue uma breve explicação a respeito dos conceitos selecionados:
+
 - Algoritmo: Este conceito consiste em uma sequência de comandos ou instruções
 realizados de maneira sistemática com o objetivo de resolver um problema ou
 executar uma tarefa. É uma sequência de ações que devem ser executadas para que o
@@ -15,6 +16,7 @@ dia a dia, mas também nos programas computacionais complexos, cujo objetivo é
 identificar o comportamento do consumidor na internet. Como exemplo, pode-se
 pensar no algoritmo do tiktok, que apresenta em sua “For You” conteúdos conforme o
 comportamento de cada usuário;
+
 - Inteligência artificial: Consiste em um campo da ciência de computação que se
 dedica ao estudo e desenvolvimento de máquinas e programas computacionais
 capazes de reproduzir o comportamento humano na tomada de decisões e na
@@ -25,16 +27,19 @@ das pessoas, por exemplo, por meio dos mecanismos de pesquisa, dos carros
 autônomos, dos assistentes de voz e das redes sociais. Um dos temas mais debatidos a
 respeito do referido conceito é a respeito dos limites éticos da inteligência artificial e
 do papel que elas desempenham na nossa sociedade atual;
+
 - Informação: É a reunião ou o conjunto de dados e conhecimentos organizados, que
 possam constituir referências sobre um determinado fato, acontecimento ou
 fenômeno. No geral, o referido conjunto de dados visa reduzir a incerteza ou
 aprofundar os conhecimentos sobre um determinado assunto a partir do que já possui,
+
 - Banco de dados: Consiste em uma coleção organizada de informações - ou dados -
 estruturadas, normalmente armazenada eletronicamente em um sistema de
 computador. Geralmente é controlado por um sistema de gerenciamento de banco de
 dados (DBMS). Os dados e o DBMS, juntamente com os aplicativos associados a
 eles, são chamados de sistema de banco de dados, abreviados, na maior parte das
 vezes, para apenas “banco de dados”.
+
 - Jurimetria: Por esse conceito, pode-se entender que é a aplicação de métodos
 quantitativos, especialmente a estatística, na área do Direito. Ela tem sido utilizada em
 conjunto com softwares para prever riscos, tendências de comportamento nos
@@ -60,3 +65,42 @@ https://www.aurum.com.br/blog/jurimetria/
 
 
 Trabalho 2: 
+
+1 - escolha outros cinco conceitos da lista
+
+Os outros cinco conceitos - constantes no final da apresentação - escolhidos para serem explicados no presente rabalho são os seguintes:
+neutralidade da rede; zero-rating, rede neural artificial; nuvem; e servidor. 
+Nexte contexto, segue uma breve explicação a respeito dos conceitos selecionados:
+
+- Neutralidade da rede: Este conceito consiste no princípio que define que todos sejam tratados com igualdade na internet, sem distinção
+de interesses comerciais ou favoritismos. Para o Instituto Brasileiro de Defesa do Consumidor, consiste no princípio essencial para a 
+regulação democrática da rede, por permitir condições igualitárias de navegação e proibir a discriminação dos consumidores na internet. 
+https://idec.org.br/consultas/dicas-e-direitos/neutralidade-da-rede-entenda-o-significado-e-a-importancia-do-conceito
+
+- Zero-rating: Consiste em uma prática realizada pelas operadoras e alguma empresa de tecnologia que permite o acesso de forma "gratuita",
+ou sem cobrar o tráfego de dados móveis a alguns serviços online, como, por exemplo, aplicativos de redes sociais e mensagens.
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+
+- Rede neural artificial: Consiste em um tipo de arquitetura de computação que se baseia em um modelo de como o cérebro humano funciona.
+As redes neurais artificiais são formadas por uma coleção de unidades de processamento denominadas "nós", que transmitem dados entre si,
+da mesma forma que - em um cérebro - os neurônios transmitem impulsos elétricos entre si. 
+https://www.cloudflare.com/pt-br/learning/ai/what-is-neural-network/
+
+- Nuvem: Pode ser definida como uma rede global de servidores, cada um com uma função única. A nuvem não é uma entidade física, mas uma 
+vasta rede de servidores remotos ao redor do globo que são conectados e operam como um único ecossistema. Os rferidos servidores são
+responsáveis por armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços, como transmissão de vídeos, webmail,
+software de produtividade ou mídias sociais. Em vez de acessar arquivos e dados do local ou de um PC, você pode acessá-los online,
+de qualquer dispositivo com acesso à Internet. As informações estarão disponíveis em praticamente qualquer lugar, a qualquer hora.
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/
+
+- Servidor: É um computador com grande capacidade de armazenamento e processamento, cujo objetivo é conectar outros computadores através
+de uma rede. Os servidores são responsáveis por processar e executar solicitações feitas pelos usuários através de softwares, banco de 
+dados, envio e recebimento de informações, como e-mails e envios de formulários. Um servidor funciona como um grande computador, mas ao 
+invés de executar operações em nível doméstico, ele o faz em grande escala, transferindo esses resultados para diferentes computadores. 
+
+Referências: 
+https://idec.org.br/consultas/dicas-e-direitos/neutralidade-da-rede-entenda-o-significado-e-a-importancia-do-conceito
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+https://www.cloudflare.com/pt-br/learning/ai/what-is-neural-network/
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/
+https://kenzie.com.br/blog/servidor/
