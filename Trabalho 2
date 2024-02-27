@@ -1,1 +1,19 @@
 3 - faça um novo arquivo no github e inclua nele uma explicação sobre o que são e como funcionam os algoritmos de redes sociais
+
+Em primeiro plano, faz-se necessário compreenderque os algoritmos das redes sociais são responsáveis por identificar quais publicações
+devem ser entregeues para mais ou menos pessoas. São responsáveis também por decidir como ranquear os resusltados de um feed, a partir 
+do grau de relevância daquele conteúdo para cada usuário. 
+O objetivo das referidas funções desempenhadas pelos algorítimos é melhorar a experiência do usuário, fazendo com que apareçam na linha 
+do tempo somente os posts mais úteis e atrativos. Nesse sentido, compreende-se a importância dos algoritmo, haja vista que impulsionam
+ou atrapalham o alcance de seu conteúdo. 
+Entrando mais a fundo no seu funcionamento, os algorítmos levam em consideração, principalmente, o comportamento a interação do usuário 
+com o seu conteúdo. Neste contexto, se o usuário interage, comentando, curtindo ou compartilhando suas publicações, maiores as chances do
+seu conteúdo continuar aparecendo na linha do tempo dele. 
+O engajamento é um dos principais critérios de análise dos algoritmos das redes sociais. No entanto, não basta produzir posts alinhados 
+à expectativa da persona do negócio, precisa também entender as especificidades dos algoritmos de cada rede social. 
+Como exemplo, pode-se pensar no Instagram. Nessa rede social a experiência do usuário é p fpcp das piblicações. O algorítmo prioriza as 
+publicações mais interessantes para o usuário, ou seja, as que ele demonstrou interesse em visualizar. Os algorítmos dessa rede social 
+levam em conta o nível de interação com a conta autora do post, ou seja, mensagens diretas e compartilhamentos de posts, além do número
+de comentários e curtidas e os horários de publicação. O horário de publicação é um dos critérios levados em conta pelos robôs do instagram, 
+Além disso, os posts mais recentes têm mais chances de apatecer na linha do tempo do usuário. Neste sentido, é mais interessante fazer 
+publicações em períodos onde há pico de uso. 
