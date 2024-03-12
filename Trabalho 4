@@ -7,7 +7,17 @@ de aplicativos Android.
 a) Código mínimo em Python: x = 10 -> print(x). 
 
    Código mínimo em JavaScript: console.log("boa noite"). 
-   Código Mínimo em Java: 
+   Código Mínimo em Java: class Danki{
+    
+    
+    public Danki(int n1,int n2){
+        System.out.println(n1+n2);
+    }
+{
+    public static void main(String[] args){
+        new Danki(5,5)
+    }
+}
 
 b)  Execução do código Python: O código criado cria uma varíavel chamada "x", cujo valor é 10 e, em seguida, imprime o valor da referida variável usando a função "print()". 
 Conforme arquivo enviado na sala de aula virtual. 
