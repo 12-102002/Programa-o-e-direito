@@ -1,8 +1,9 @@
-1) A primeira linguagem escolhida foi a Python, que é uma linguagem de programação de alto nível, conhecida pela sua simplicidade e legibilidade de código. A referida linguagem é amplamente
-usada em várias áreas, incluindo desenvolvimento web, inteligência artificial, ciência de dados e automação. 
-   Outra linguagem de programação é a JavaScript, que é uma linguagem predominante no desenvolvimento web, essencial para criar páginas interativas e dinâmicas na internet. 
-   Por último, pode-se tratar também da Java, que é uma linguagem orientada a objetos, conhecida por sua portibilidade e robustez. Geralmente, é a linguagem principal para o desenvolvimento 
-de aplicativos Android. 
+1) A primeira linguagem escolhida foi a Python, que é uma linguagem de programação de alto nível, conhecida pela sua simplicidade e legibilidade de
+código. A referida linguagem é amplamente usada em várias áreas, incluindo desenvolvimento web, inteligência artificial, ciência de dados e automação. 
+   Outra linguagem de programação é a JavaScript, que é uma linguagem predominante no desenvolvimento web, essencial para criar páginas interativas
+e dinâmicas na internet. 
+   Por último, pode-se tratar também da Java, que é uma linguagem orientada a objetos, conhecida por sua portibilidade e robustez. Geralmente, é a
+linguagem principal para o desenvolvimento de aplicativos Android. 
 
 a) Código mínimo em Python: x = 10 -> print(x). 
 
@@ -19,8 +20,8 @@ a) Código mínimo em Python: x = 10 -> print(x).
     }
 }
 
-b)  Execução do código Python: O código criado cria uma varíavel chamada "x", cujo valor é 10 e, em seguida, imprime o valor da referida variável usando a função "print()". 
-Conforme arquivo enviado na sala de aula virtual. 
+b)  Execução do código Python: O código criado cria uma varíavel chamada "x", cujo valor é 10 e, em seguida, imprime o valor da referida variável
+usando a função "print()". Conforme arquivo enviado na sala de aula virtual. 
 
     Execução do código JavaScript: arquivo enviado na sala de aula virtual. 
 
