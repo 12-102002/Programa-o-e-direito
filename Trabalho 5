@@ -8,6 +8,10 @@ while contador < 5:
 
 print("Loop concluído!")
 
+No código criado, o loop while é executado enquanto o valor de contador for menor que 5. Dentro do loop, o valor atual do contador é impresso e o contador é incrementado em 1. O loop continuará até
+que o contador atinja ou ultrapasse o valor de 5. Após o término do loop, "Loop concluído!" será impresso.
+
+
 
 Código de tomada de decisão criado: 
 
@@ -17,5 +21,10 @@ if idade >= 18:
     print("Você é maior de idade.")
 else:
     print("Você é menor de idade.")
+
+
+No código criado, a variável idade é definida como 20. O programa verifica se a idade é maior ou igual a 18 usando a declaração if. Se for verdadeira, o programa imprime "Você é maior de idade.
+" Se for falsa, o programa imprime "Você é menor de idade."
+
 
 Prova da execução enviado no arquivo da sala de aula virtual. 
